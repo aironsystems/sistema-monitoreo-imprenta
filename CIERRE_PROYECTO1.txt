@@ -1,0 +1,59 @@
+CIERRE PROYECTO 1 — SISTEMA DE MONITOREO IMPRENTA OFFSET
+Fecha: 2026-04-26
+
+ESTADO: COMPLETADO
+
+LO QUE SE CONSTRUYO
+-------------------
+Sistema de monitoreo industrial en tiempo real para imprenta offset.
+20 dias de desarrollo practico con Python, SQL, Flask y Plotly.
+
+ARCHIVOS DEL SISTEMA
+--------------------
+- sistema.py          Sistema principal unificado
+- monitor.py          Monitor de produccion con deteccion de alarmas
+- dashboard_plotly.py Dashboard interactivo con Plotly
+- consultas.py        Explorador SQL desde el navegador
+- predictivo.py       Analisis predictivo por regresion lineal
+- exportar.py         Exportacion CSV y reportes HTML
+- sesiones.py         Historial y registro de sesiones
+- fallas.py           Simulacion y registro de fallas
+- indicadores.py      Calculo de MTBF, MTTR y disponibilidad
+- reporte.py          Reportes de turno automaticos
+- tendencia.py        Analisis de tendencia comparativa
+
+TECNOLOGIAS APLICADAS
+---------------------
+- Python 3.12
+- Flask
+- Plotly
+- pandas
+- numpy
+- SQLite
+- Git / GitHub
+- Multithreading
+- Regresion lineal
+- Deteccion de anomalias por desviacion estandar
+
+CONCEPTOS INDUSTRIALES APLICADOS
+---------------------------------
+- SCADA basico
+- MTBF y MTTR
+- OEE (eficiencia general del equipo)
+- Mantenimiento predictivo
+- Logica de cambio automatico de rollo
+- Deteccion y recuperacion de fallas
+
+REPOSITORIO
+-----------
+https://github.com/aironsystems/sistema-monitoreo-imprenta
+
+PROXIMO PASO: PROYECTO 2
+------------------------
+Escalar el sistema a produccion industrial real:
+- Multiples unidades en serie
+- Volumen de produccion de imprenta provincial
+- Logica de interdependencia entre unidades
+- Dashboard con multiples paneles
+- Deteccion avanzada de anomalias
+- Parametros reales de la maquina donde trabajo
