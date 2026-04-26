@@ -1,0 +1,53 @@
+PREPARACION PARA ENTREVISTAS — AIRON
+=====================================
+
+PRESENTACION PERSONAL
+---------------------
+Tecnico en automatizacion industrial, trabajo en produccion nocturna
+supervisando linea de impresion offset con control PLC.
+Estudio Python, SQL e Ingenieria en Sistemas.
+Desarrolle un sistema de monitoreo industrial en Python disponible en GitHub.
+
+TECNOLOGIAS QUE PUEDO MENCIONAR CON SEGURIDAD
+----------------------------------------------
+- Python: logica, estructuras de datos, funciones, modulos, multithreading
+- SQL: SELECT, INSERT, UPDATE, GROUP BY, JOIN, subconsultas
+- SQLite: base de datos local, DB Browser, integracion con Python
+- Flask: servidor web liviano, rutas, formularios POST/GET
+- Plotly: graficos interactivos, subplots, dashboards
+- pandas: DataFrames, read_sql_query, manipulacion de datos
+- numpy: calculos numericos, regresion lineal, desviacion estandar
+- PLC: logica Ladder, Modbus, OpenPLC, automatizacion industrial
+- Git/GitHub: control de versiones, commits, push, repositorio publico
+- Linux: terminal, comandos basicos, administracion de paquetes
+
+CONCEPTOS QUE PUEDO EXPLICAR
+-----------------------------
+- MTBF: tiempo promedio entre fallas
+- MTTR: tiempo promedio de reparacion
+- Disponibilidad: porcentaje de tiempo operando vs tiempo total
+- OEE: eficiencia general del equipo
+- Mantenimiento predictivo vs preventivo vs correctivo
+- Regresion lineal aplicada a tendencias de produccion
+- Deteccion de anomalias por desviacion estandar
+- Multithreading: ejecucion paralela de procesos
+- SCADA: sistema de supervision y adquisicion de datos
+- IIoT: Internet Industrial de las Cosas
+
+PROYECTO PARA MOSTRAR
+---------------------
+GitHub: https://github.com/aironsystems/sistema-monitoreo-imprenta
+- Sistema de monitoreo en tiempo real para imprenta offset
+- Dashboard interactivo con Plotly
+- Calculo de MTBF, MTTR y disponibilidad
+- Analisis predictivo por regresion lineal
+- Exportacion de reportes HTML y CSV
+- Explorador SQL desde el navegador
+- Un solo comando arranca todo el sistema
+
+PREGUNTAS PARA HACER AL ENTREVISTADOR
+--------------------------------------
+- Que tecnologias de automatizacion usan actualmente?
+- Tienen sistemas de monitoreo de produccion en planta?
+- Como es la cultura de la empresa respecto a la formacion continua?
+- Cual seria mi primer proyecto o responsabilidad?
